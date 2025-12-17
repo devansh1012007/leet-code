@@ -1,0 +1,36 @@
+[3,2,2,3]
+solve it with poiter method 
+
+differt method of apptoch :
+
+1) the one i learnet 
+	[3,2,2,3]
+	j = 0 ; i = 1    // if function will eun
+	[2,2,3]
+	 ^		// both at one place 
+	[2,2,3]
+	 ^ ^    // removing pointer moved forward
+	[2,2,3]
+	   ^ ^  // moved forward
+	[2,2,3]
+		 ^  // both at one place
+
+
+2) simple pop # this should work too # without 2 pointer
+	[3,2,2,3] 
+	 ^
+	[2,2,3]
+	 ^
+	[2,2,3]
+	   ^
+	[2,2,3]
+		 ^
+	[2,2]
+	RETURN len(arr
+
+
+[0,1,2,2,3,0,4,2]
+expected -> [0,1,4,0,3]
+
+3) take val to the end and then find pop()
+4) try another way of ur own
