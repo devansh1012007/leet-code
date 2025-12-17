@@ -17,7 +17,7 @@ class Solution(object):
             sums += nums[i]
             i += 2
         return sums
-
+#jbnejkbevjbkln
 ###
 class Solution(object):
     def arrayPairSum(self, nums):# nums in not itrateable 
