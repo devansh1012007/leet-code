@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/devansh1012007/leet-code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/devansh1012007/leet-code/tree/master/0654-maximum-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,12 +26,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/devansh1012007/leet-code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/devansh1012007/leet-code/tree/master/0654-maximum-binary-tree) |
 ## Tree
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/devansh1012007/leet-code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/devansh1012007/leet-code/tree/master/0654-maximum-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/devansh1012007/leet-code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/devansh1012007/leet-code/tree/master/0654-maximum-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/devansh1012007/leet-code/tree/master/0654-maximum-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/devansh1012007/leet-code/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
