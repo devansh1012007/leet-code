@@ -6,13 +6,13 @@
 #         self.right = right
 class Solution(object):    
     def make_tree(self, left, right):
-            if left > right:
+            if left == right: 
+                return TreeNode(self.preorder.pop()) 
+            
+            elif left > right:
                 return None
             
             root = TreeNode(self.preorder.pop())
-            
-            if left == right: 
-                return root
             
             mid = self.postodr_map[self.preorder[-1]]
             
