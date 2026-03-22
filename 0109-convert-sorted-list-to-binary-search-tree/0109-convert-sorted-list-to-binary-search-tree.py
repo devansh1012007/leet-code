@@ -17,17 +17,15 @@ class Solution(object):
             length += 1
             self.stk.append(head.val)
             head = head.next
-        #root = TreeNode(stk[lenght % 2])
         hash_tab = {val : idx for idx, val in enumerate(self.stk)} 
-        # I need to make logic for balanced tree
-        # think of diff way of doin it 
         def make_tree(left, right):
-            if left > right:
+            if left == right: 
+                mid = (left + right) // 2
+                return TreeNode(self.stk[mid])
+            elif left > right:
                 return None
             mid = (left + right) // 2
             root = TreeNode(self.stk[mid])# ned to fix this logic    
-            if left == right: 
-                return root
             root.left = make_tree(left,mid - 1)
             root.right = make_tree(mid + 1, right)
             return root
