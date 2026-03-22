@@ -11,21 +11,17 @@
 #         self.right = right
 class Solution(object):
     def sortedListToBST(self, head):
-        length = -1
-        self.stk = []
-        while head:
-            length += 1
-            self.stk.append(head.val)
-            head = head.next
-        def make_tree(left, right):
-            if left == right: 
-                mid = (left + right) // 2
-                return TreeNode(self.stk[mid])
-            elif left > right:
-                return None
-            mid = (left + right) // 2
-            root = TreeNode(self.stk[mid])# ned to fix this logic    
-            root.left = make_tree(left,mid - 1)
-            root.right = make_tree(mid + 1, right)
-            return root
-        return make_tree(0 , length)
+        if not head:
+            return None
+        if not head.next:
+            return TreeNode(head.val)
+        prev, slow, fast = None, head, head 
+        while fast and fast.next:
+            prev = slow
+            slow = slow.next
+            fast = fast.next.next# fucks happening here
+        root = TreeNode(slow.val)
+        prev.next = None
+        root.left = self.sortedListToBST(head)
+        root.right = self.sortedListToBST(slow.next)
+        return root
