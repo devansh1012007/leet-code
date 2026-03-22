@@ -9,17 +9,19 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
+# this solution is slow af; 2 pointer method Beat me 99%; but this is memory efficient 
 class Solution(object):
     def sortedListToBST(self, head):
         if not head:
             return None
-        if not head.next:
+        elif not head.next:
             return TreeNode(head.val)
         prev, slow, fast = None, head, head 
         while fast and fast.next:
             prev = slow
             slow = slow.next
-            fast = fast.next.next# fucks happening here
+            fast = fast.next.next
         root = TreeNode(slow.val)
         prev.next = None
         root.left = self.sortedListToBST(head)
