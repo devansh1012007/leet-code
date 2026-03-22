@@ -17,7 +17,6 @@ class Solution(object):
             length += 1
             self.stk.append(head.val)
             head = head.next
-        hash_tab = {val : idx for idx, val in enumerate(self.stk)} 
         def make_tree(left, right):
             if left == right: 
                 mid = (left + right) // 2
