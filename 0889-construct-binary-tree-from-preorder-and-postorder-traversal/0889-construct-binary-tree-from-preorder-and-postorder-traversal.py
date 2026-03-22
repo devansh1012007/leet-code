@@ -4,9 +4,10 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+# if elif reduced 3ms ! damn ; and pop was good 4 memory efficiency
 class Solution(object):    
     def make_tree(self, left, right):
-            if left == right:# if elif reduced 3ms ! damn ; and pop was good 4 memory efficiency
+            if left == right:
                 return TreeNode(self.preorder.pop()) 
             elif left > right:
                 return None
