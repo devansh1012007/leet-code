@@ -72,10 +72,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/devansh1012007/leet-code/tree/master/0069-sqrtx) |
 | [0099-recover-binary-search-tree](https://github.com/devansh1012007/leet-code/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/devansh1012007/leet-code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/devansh1012007/leet-code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/devansh1012007/leet-code/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
