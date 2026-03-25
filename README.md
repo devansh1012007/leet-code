@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/devansh1012007/leet-code/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/devansh1012007/leet-code/tree/master/0099-recover-binary-search-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/devansh1012007/leet-code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/devansh1012007/leet-code/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/devansh1012007/leet-code/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/devansh1012007/leet-code/tree/master/0099-recover-binary-search-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/devansh1012007/leet-code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/devansh1012007/leet-code/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/devansh1012007/leet-code/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/devansh1012007/leet-code/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/devansh1012007/leet-code/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/devansh1012007/leet-code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/devansh1012007/leet-code/tree/master/0268-missing-number) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/devansh1012007/leet-code/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/devansh1012007/leet-code/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/devansh1012007/leet-code/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -95,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/devansh1012007/leet-code/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/devansh1012007/leet-code/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
