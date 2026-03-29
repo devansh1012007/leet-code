@@ -22,6 +22,7 @@ class Solution(object):
                     return False
         
         return False'''
+        # right way of doing it !
         for i in matrix:
             if target <= i[-1] and target >= i[0]:
                 low = 0
