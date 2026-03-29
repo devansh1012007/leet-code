@@ -13,12 +13,26 @@ class Solution(object):
         ## pt 2
         # insted of BS v can also use set  
 
-        for i in matrix :
+        '''for i in matrix :
             if target <= i[-1] and target >= i[0]:
-                i_set = set(i)
+                
                 if target in i_set:
                     return True
                 else:
                     return False
         
-        return False
+        return False'''
+        for i in matrix:
+            if target <= i[-1] and target >= i[0]:
+                low = 0
+                high = len(i)-1 
+                while low <= high:
+                    mid = low + (high - low) // 2
+                    if i[mid] == target:
+                        return True
+                    elif i[mid] < target:
+                        low = mid + 1
+                    else:
+                        high = mid - 1
+                return False
+        return False        
