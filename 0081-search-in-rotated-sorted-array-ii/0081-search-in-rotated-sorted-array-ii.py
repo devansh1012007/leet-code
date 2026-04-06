@@ -12,25 +12,26 @@ class Solution(object):
             mid = low + (high-low) //2
             if nums[mid]== target:
                 return True
-            elif nums[mid] >= nums[low]:
+            elif nums[mid] >= nums[low]: ####### make sure that u r checking if they are sorted of not 
                 if target >= nums[low] and target < nums[mid]:
                     high = mid -1
                 else : 
                     low = mid + 1
-            elif nums[mid] <= nums[high]:
+            else:# nums[mid] <= nums[high]
                 if target <= nums[high] and target > nums[mid]:
                     low = mid + 1
                 else:
                     high = mid - 1
-            else:
+            '''else:
                 if nums[mid] < target:
                     low = mid + 1
                 else : 
-                    high = mid - 1
+                    high = mid - 1'''
 
         return False
     
-
+    #other way of doing it but i didn't refine it 
+    '''
     def BS(arr, lo, hi, x):
         while lo <= hi:
             mid = lo + (hi - lo) // 2
@@ -54,7 +55,7 @@ class Solution(object):
                 hi = mid
 
         return lo
-    '''
+    
     def search(self,nums,target):
         n = len(arr)
         pivot = findPivot(arr, 0, n - 1)
