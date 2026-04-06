@@ -12,7 +12,7 @@ class Solution(object):
             mid = low + (high-low) //2
             if nums[mid]== target:
                 return True
-            elif nums[mid] >= nums[low]: ####### make sure that u r checking if they are sorted of not 
+            elif nums[mid] >= nums[low]: ####### make sure that u r checking if they are sorted of not the opposite
                 if target >= nums[low] and target < nums[mid]:
                     high = mid -1
                 else : 
