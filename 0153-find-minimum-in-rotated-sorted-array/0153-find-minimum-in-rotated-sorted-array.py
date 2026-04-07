@@ -6,8 +6,10 @@ class Solution(object):
         """
         high = len(nums)-1
         low = 0
-
+        # similar to Search in a Rotated Array
         while high>low :
+            if nums[low] < nums[high]:
+                return nums[low]
             mid = low + (high-low) //2
             if nums[mid] > nums[high]:
                 low = mid + 1
@@ -15,6 +17,4 @@ class Solution(object):
             elif nums[mid] < nums[low]:
                 high = mid 
                 print(high, low)
-            else:
-                return nums[low]
         return nums[low]
