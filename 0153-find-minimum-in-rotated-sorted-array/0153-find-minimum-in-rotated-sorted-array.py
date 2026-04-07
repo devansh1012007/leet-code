@@ -12,6 +12,6 @@ class Solution(object):
             M = nums[mid]
             if M > H:
                 low = mid + 1
-            else:
+            elif M < L:
                 high = mid 
         return nums[low]
