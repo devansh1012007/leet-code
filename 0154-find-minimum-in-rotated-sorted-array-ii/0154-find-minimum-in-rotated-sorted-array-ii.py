@@ -2,7 +2,6 @@ class Solution(object):
     def findMin(self, nums):
         high = len(nums)-1
         low = 0
-        # similar to Search in a Rotated Array
         while high>low :
             L = nums[low]
             H = nums[high]
