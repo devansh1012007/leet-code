@@ -1,10 +1,5 @@
 class Solution(object):
     def searchMatrix(self, matrix, target):
-        """
-        :type matrix: List[List[int]]
-        :type target: int
-        :rtype: bool
-        """
         # 1st collum select then BS; 
         ## pt 1
         # column select for 0 and -1 index val of column check if target is between them 
