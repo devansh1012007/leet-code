@@ -13,4 +13,4 @@ class Solution(object):
                 lo = mid+1
             else: 
                 high = mid
-        return min(citations[lo],L-lo) 
+        return min(citations[lo],L-lo) # how can i remove min?
