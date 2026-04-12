@@ -7,10 +7,9 @@
 
 class Solution(object):
     def guessNumber(self, n):
-        low = 0
-        high = n
+        low, high =1, n
         while high >= low:
-            mid = low + (high-low) //2
+            mid = (low + high) // 2
             check = guess(mid)
             if check == 0 :
                 return mid
