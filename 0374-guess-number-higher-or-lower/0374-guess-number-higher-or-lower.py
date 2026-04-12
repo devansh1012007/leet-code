@@ -14,7 +14,7 @@ class Solution(object):
             check = guess(mid)
             if check == 0 :
                 return mid
-            elif check == 1:
-                low = mid +1
-            else:
+            elif check == -1:
                 high = mid -1
+            else:
+                low = mid +1
