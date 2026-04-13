@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/devansh1012007/leet-code/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/devansh1012007/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/devansh1012007/leet-code/tree/master/0374-guess-number-higher-or-lower) |
+| [0400-nth-digit](https://github.com/devansh1012007/leet-code/tree/master/0400-nth-digit) |
 ## Linked List
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/devansh1012007/leet-code/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/devansh1012007/leet-code/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/devansh1012007/leet-code/tree/master/0268-missing-number) |
+| [0400-nth-digit](https://github.com/devansh1012007/leet-code/tree/master/0400-nth-digit) |
 ## Bit Manipulation
 |  |
 | ------- |
