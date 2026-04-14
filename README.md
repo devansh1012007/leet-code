@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/devansh1012007/leet-code/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/devansh1012007/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0654-maximum-binary-tree](https://github.com/devansh1012007/leet-code/tree/master/0654-maximum-binary-tree) |
+| [0729-my-calendar-i](https://github.com/devansh1012007/leet-code/tree/master/0729-my-calendar-i) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devansh1012007/leet-code/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Hash Table
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/devansh1012007/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/devansh1012007/leet-code/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/devansh1012007/leet-code/tree/master/0400-nth-digit) |
+| [0729-my-calendar-i](https://github.com/devansh1012007/leet-code/tree/master/0729-my-calendar-i) |
 ## Linked List
 |  |
 | ------- |
@@ -145,4 +147,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/devansh1012007/leet-code/tree/master/0374-guess-number-higher-or-lower) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/devansh1012007/leet-code/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/devansh1012007/leet-code/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/devansh1012007/leet-code/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
