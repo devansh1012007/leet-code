@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/devansh1012007/leet-code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/devansh1012007/leet-code/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/devansh1012007/leet-code/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/devansh1012007/leet-code/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/devansh1012007/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/devansh1012007/leet-code/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/devansh1012007/leet-code/tree/master/0400-nth-digit) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/devansh1012007/leet-code/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/devansh1012007/leet-code/tree/master/0374-guess-number-higher-or-lower) |
 ## Design
 |  |
