@@ -1,4 +1,4 @@
-'''class Solution(object):
+class Solution(object):
     def firstBadVersion(self, n):
         hi = n
         lo = 1
@@ -9,7 +9,7 @@
             else:
                 lo = mid+1
         return hi
-'''# [1,2,3,4,5] --> [False, False, True, True, True]
+# [1,2,3,4,5] --> [False, False, True, True, True]
 
 ## Same same but different --> 
 """
@@ -25,7 +25,7 @@ class Solution(object):
                 hi = mid
         return hi
 """
-
+"""
 class Solution(object):
     def firstBadVersion(self, n):
         hi = n
@@ -37,4 +37,4 @@ class Solution(object):
             else:
                 lo = mid+1
         return lo
-
+"""
