@@ -1,8 +1,3 @@
-# The isBadVersion API is already defined for you.
-# @param version, an integer
-# @return a bool
-# def isBadVersion(version):
-"""
 class Solution(object):
     def firstBadVersion(self, n):
         hi = n
@@ -15,9 +10,9 @@ class Solution(object):
                 lo = mid+1
         return hi
 # [1,2,3,4,5] --> [False, False, True, True, True]
-"""
-## Same same but different --> 
 
+## Same same but different --> 
+"""
 class Solution(object):
     def firstBadVersion(self, n):
         hi = n
@@ -29,4 +24,4 @@ class Solution(object):
             else:
                 hi = mid
         return hi
-
+"""
