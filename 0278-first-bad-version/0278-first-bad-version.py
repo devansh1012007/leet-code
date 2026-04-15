@@ -4,7 +4,7 @@ class Solution(object):
         lo = 1
         while hi > lo:
             mid = lo + (hi-lo) // 2
-            if isBadVersion(mid) == True:
+            if isBadVersion(mid):
                 hi = mid
             else:
                 lo = mid+1
