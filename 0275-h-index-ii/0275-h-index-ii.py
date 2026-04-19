@@ -1,5 +1,5 @@
-class Solution(object):
-    def hIndex(self, citations):
+class Solution:
+    def hIndex(self, citations: List[int]) -> int:
         L = len(citations) 
         lo = 0
         high = L-1
@@ -13,4 +13,4 @@ class Solution(object):
                 lo = mid+1
             else: 
                 high = mid
-        return min(citations[lo],L-lo) # how can i remove min?
+        return min(citations[lo],L-lo)
