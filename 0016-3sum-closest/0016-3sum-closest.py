@@ -1,15 +1,9 @@
 class Solution(object):
     def threeSumClosest(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: int
-        """
         # v can do it lil like BS 
         lenght = len(nums) 
         nums.sort()
         closest = float('inf')
-        #num_dict = {i: val for i, val in enumerate(nums)}
         for i in range(lenght - 2):
             lo = i + 1
             hi = lenght -1
@@ -23,4 +17,4 @@ class Solution(object):
                     lo += 1
                 else :
                     return curr
-        return closest  
+        return closest
