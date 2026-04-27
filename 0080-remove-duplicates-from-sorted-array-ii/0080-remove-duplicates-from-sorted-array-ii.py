@@ -8,8 +8,6 @@ class Solution(object):
         i = 0
         j=0
         counter = len(nums)
-        if counter == 1:
-            return 1
         while i < counter:
             while nums[i] == nums[j] :
                 if j - i >1:
