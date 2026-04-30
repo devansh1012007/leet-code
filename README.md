@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/devansh1012007/leet-code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/devansh1012007/leet-code/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devansh1012007/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/devansh1012007/leet-code/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/devansh1012007/leet-code/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/devansh1012007/leet-code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/devansh1012007/leet-code/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/devansh1012007/leet-code/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/devansh1012007/leet-code/tree/master/0268-missing-number) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devansh1012007/leet-code/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Divide and Conquer
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/devansh1012007/leet-code/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/devansh1012007/leet-code/tree/master/0096-unique-binary-search-trees) |
+| [0202-happy-number](https://github.com/devansh1012007/leet-code/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/devansh1012007/leet-code/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/devansh1012007/leet-code/tree/master/0400-nth-digit) |
 ## Bit Manipulation
