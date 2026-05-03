@@ -3,6 +3,7 @@ class Solution(object):
         j = 0
         i = 0
         length = len(nums)
+        # for loop is faster then while loop, same logic took 3 ms more with while loop(but memory efficiency is lost)
         if length == 1:
             return nums
         for i in range(length):
