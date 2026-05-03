@@ -7,9 +7,7 @@ class Solution(object):
             return nums
         while i < length:
             if nums[i] != 0:
-                temp = nums[i]
-                nums[i]=0
-                nums[j] = temp
+                nums[i],nums[j]= 0,nums[i] 
                 j +=1
             i +=1
         return nums
