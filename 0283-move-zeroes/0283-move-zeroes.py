@@ -2,7 +2,10 @@ class Solution(object):
     def moveZeroes(self, nums):
         j = 0
         i = 0
-        while i < len(nums):
+        length = len(nums)
+        if length == 1:
+            return nums
+        while i < length:
             if nums[i] != 0:
                 temp = nums[i]
                 nums[i]=0
