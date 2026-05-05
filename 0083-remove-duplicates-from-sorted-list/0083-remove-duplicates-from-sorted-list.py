@@ -8,10 +8,7 @@ class Solution(object):
         ans = head
         while head:
             curr = head
-            while curr.val == head.val and head.next:
-                head =head.next
-            if head.val == curr.val:
-                curr.next = None
-                break    
+            while head and curr.val == head.val:
+                head =head.next            
             curr.next = head
         return ans 
