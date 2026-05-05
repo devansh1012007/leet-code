@@ -14,5 +14,4 @@ class Solution(object):
                 curr.next = None
                 break    
             curr.next = head
-            head = curr.next
         return ans 
