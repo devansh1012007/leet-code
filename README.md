@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/devansh1012007/leet-code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/devansh1012007/leet-code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/devansh1012007/leet-code/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/devansh1012007/leet-code/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devansh1012007/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/devansh1012007/leet-code/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/devansh1012007/leet-code/tree/master/0283-move-zeroes) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/devansh1012007/leet-code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/devansh1012007/leet-code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/devansh1012007/leet-code/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devansh1012007/leet-code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0654-maximum-binary-tree](https://github.com/devansh1012007/leet-code/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devansh1012007/leet-code/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/devansh1012007/leet-code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/devansh1012007/leet-code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/devansh1012007/leet-code/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/devansh1012007/leet-code/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/devansh1012007/leet-code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/devansh1012007/leet-code/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/devansh1012007/leet-code/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/devansh1012007/leet-code/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/devansh1012007/leet-code/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
@@ -205,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/devansh1012007/leet-code/tree/master/0024-swap-nodes-in-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/devansh1012007/leet-code/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
