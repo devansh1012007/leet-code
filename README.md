@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/devansh1012007/leet-code/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/devansh1012007/leet-code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/devansh1012007/leet-code/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/devansh1012007/leet-code/tree/master/0096-unique-binary-search-trees) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/devansh1012007/leet-code/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/devansh1012007/leet-code/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/devansh1012007/leet-code/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
 |  |
