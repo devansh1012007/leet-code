@@ -1,5 +1,3 @@
-class Solution(object):
-    def myPow(self, x, n):
-        x=x**n
-
-        return x
+class Solution:
+    def myPow(self, x: float, n: int) -> float:
+        return x**n
