@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/devansh1012007/leet-code/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/devansh1012007/leet-code/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/devansh1012007/leet-code/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/devansh1012007/leet-code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/devansh1012007/leet-code/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/devansh1012007/leet-code/tree/master/0400-nth-digit) |
 ## Bit Manipulation
@@ -227,4 +228,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/devansh1012007/leet-code/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/devansh1012007/leet-code/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/devansh1012007/leet-code/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
