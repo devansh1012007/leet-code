@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/devansh1012007/leet-code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/devansh1012007/leet-code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/devansh1012007/leet-code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/devansh1012007/leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/devansh1012007/leet-code/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devansh1012007/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/devansh1012007/leet-code/tree/master/0202-happy-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/devansh1012007/leet-code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/devansh1012007/leet-code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/devansh1012007/leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/devansh1012007/leet-code/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/devansh1012007/leet-code/tree/master/0268-missing-number) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devansh1012007/leet-code/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/devansh1012007/leet-code/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/devansh1012007/leet-code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/devansh1012007/leet-code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/devansh1012007/leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/devansh1012007/leet-code/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/devansh1012007/leet-code/tree/master/0206-reverse-linked-list) |
 ## Math
