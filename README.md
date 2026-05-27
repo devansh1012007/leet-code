@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/devansh1012007/leet-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/devansh1012007/leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/devansh1012007/leet-code/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/devansh1012007/leet-code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devansh1012007/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/devansh1012007/leet-code/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/devansh1012007/leet-code/tree/master/0283-move-zeroes) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/devansh1012007/leet-code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/devansh1012007/leet-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/devansh1012007/leet-code/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/devansh1012007/leet-code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/devansh1012007/leet-code/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/devansh1012007/leet-code/tree/master/0268-missing-number) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devansh1012007/leet-code/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/devansh1012007/leet-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/devansh1012007/leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/devansh1012007/leet-code/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/devansh1012007/leet-code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/devansh1012007/leet-code/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/devansh1012007/leet-code/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
