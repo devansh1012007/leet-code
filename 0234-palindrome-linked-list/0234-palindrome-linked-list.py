@@ -4,7 +4,7 @@
 #         self.val = val
 #         self.next = next
 class Solution(object):
-    def reverseList(self,head):
+    '''def reverseList(self,head):
         prev = None
         curr = head
         while curr:
@@ -13,7 +13,8 @@ class Solution(object):
             prev = curr            
             curr = next_node       
         return prev
-    '''def isPalindrome(self, head):
+    
+    def isPalindrome(self, head):
         fast = slow = head
         values = []
         if not head.next:return True
@@ -30,8 +31,8 @@ class Solution(object):
                 return False
             slow = slow.next
         return True if len(values)==0 else False
-    '''
-    '''def isPalindrome(self, head):
+    
+    def isPalindrome(self, head):
         fast = slow = head
         if not head.next:return True
         while fast and fast.next:
