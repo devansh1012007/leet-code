@@ -25,10 +25,7 @@ class Solution(object):
         if not head:return final.next 
         while True:
             curr.next = head
-            while head and head.val != val: 
-                curr = curr.next
-                head = head.next
+            while head and head.val != val: curr, head = curr.next, head.next
             curr.next = None
             if head: head = head.next
             else: return final.next
-        return final.next
