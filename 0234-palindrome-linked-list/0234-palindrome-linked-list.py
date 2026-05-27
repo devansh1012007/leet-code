@@ -53,14 +53,11 @@ class Solution(object):
             fast = fast.next.next
             values.append(slow.val)
             slow = slow.next
-        print(values)
         first_half = values[::-1]
         second_half = []
         while slow:
             second_half.append(slow.val)
             slow = slow.next
-        print(first_half)
-        print(second_half)
         if first_half == second_half:
             return True
         second_half.pop(0)
