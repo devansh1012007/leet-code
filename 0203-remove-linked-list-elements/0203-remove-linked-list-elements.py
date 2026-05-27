@@ -22,7 +22,8 @@ class Solution(object):
     def removeElements(self, head, val):
         final = ListNode()
         curr = final
-        while head:
+        if not head:return final.next 
+        while True:
             curr.next = head
             while head and head.val != val: 
                 curr = curr.next
