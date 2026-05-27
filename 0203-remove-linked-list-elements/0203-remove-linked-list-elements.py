@@ -26,6 +26,6 @@ class Solution(object):
         while True:
             curr.next = head
             while head and head.val != val: curr, head = curr.next, head.next
-            curr.next = None
+            
             if head: head = head.next
             else: return final.next
