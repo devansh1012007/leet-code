@@ -1,6 +1,5 @@
 class Solution(object):
     def letterCombinations(self, digits):
-        w_list=[]
         table = {
         '2':['a','b','c'],
         '3':['d','e','f'],
@@ -12,19 +11,15 @@ class Solution(object):
         '9':['w','x','y','z'],}
         sol=[]
         for i in digits:
+            table_i = table[i]
             len_sol = len(sol)
-            
             if len_sol ==0:
-                for j in table[i]:sol.append(j) 
-                continue
-            
-            prev_letter_pos=0
+                for j in table_i:sol.append(j)
             while len_sol>0:
-                prev_letter = sol[prev_letter_pos]
-                for j in table[i]:sol.append(prev_letter+j)
+                prev_letter = sol[0]
+                for j in table_i:sol.append(prev_letter+j)
                 sol.pop(0)
                 len_sol-=1
-
         return sol
 
         '''for i in w_list[-1]:sol.append(i)
