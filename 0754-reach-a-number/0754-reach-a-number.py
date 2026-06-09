@@ -12,7 +12,7 @@
                 if pointer == target : return numMoves 
                 numMoves++
 """
-# logic 1 wrong assumtion that u can only move +-numMoves; actually v can move from (1 to numMoves) but i am not sure as exmple says other wise.
+# logic 1 wrong assumtion that u can only move +-numMoves; actually v can move from (1 to numMoves) but i am not sure as exmple says other wise.; assumtion is correct
 """class Solution(object):
     def reachNumber(self, target):
         pointer = 0
