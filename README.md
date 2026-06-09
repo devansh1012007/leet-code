@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/devansh1012007/leet-code/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/devansh1012007/leet-code/tree/master/0400-nth-digit) |
 | [0729-my-calendar-i](https://github.com/devansh1012007/leet-code/tree/master/0729-my-calendar-i) |
+| [0754-reach-a-number](https://github.com/devansh1012007/leet-code/tree/master/0754-reach-a-number) |
 ## Linked List
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/devansh1012007/leet-code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/devansh1012007/leet-code/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/devansh1012007/leet-code/tree/master/0400-nth-digit) |
+| [0754-reach-a-number](https://github.com/devansh1012007/leet-code/tree/master/0754-reach-a-number) |
 ## Bit Manipulation
 |  |
 | ------- |
