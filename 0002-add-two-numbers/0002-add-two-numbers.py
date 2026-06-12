@@ -1,6 +1,10 @@
-
-class Solution(object):
-    def addTwoNumbers(self, l1, l2):
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         ans=ListNode()
         curr = ans
         carry = 0
@@ -33,4 +37,4 @@ class Solution(object):
             curr = curr.next
             l2=l2.next
         if carry != 0:curr.next=ListNode(carry)
-        return ans.next
+        return ans.next  
