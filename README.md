@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/devansh1012007/leet-code/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/devansh1012007/leet-code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/devansh1012007/leet-code/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/devansh1012007/leet-code/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/devansh1012007/leet-code/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/devansh1012007/leet-code/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/devansh1012007/leet-code/tree/master/0258-add-digits) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/devansh1012007/leet-code/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/devansh1012007/leet-code/tree/master/0096-unique-binary-search-trees) |
 ## Matrix
 |  |
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devansh1012007/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/devansh1012007/leet-code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
