@@ -112,6 +112,11 @@ class Solution_2:
             return self.recursion(numRows, ans)
         else : return ans
 
+'''
+the temp 2 can be reduces and there must be more claver ways of doing this
+length can be  chamged with numRows
+my approch is top down (Memoization). But i can do this with Bottom-up [Tabulation] approach too
+'''
 # clean answer:
 class Solution:
     def generate(self, numRows: int) -> List[List[int]]:
