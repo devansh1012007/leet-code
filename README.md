@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/devansh1012007/leet-code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/devansh1012007/leet-code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devansh1012007/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/devansh1012007/leet-code/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/devansh1012007/leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devansh1012007/leet-code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/devansh1012007/leet-code/tree/master/0268-missing-number) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/devansh1012007/leet-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/devansh1012007/leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devansh1012007/leet-code/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/devansh1012007/leet-code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/devansh1012007/leet-code/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/devansh1012007/leet-code/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/devansh1012007/leet-code/tree/master/0409-longest-palindrome) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/devansh1012007/leet-code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/devansh1012007/leet-code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/devansh1012007/leet-code/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/devansh1012007/leet-code/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devansh1012007/leet-code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0654-maximum-binary-tree](https://github.com/devansh1012007/leet-code/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devansh1012007/leet-code/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/devansh1012007/leet-code/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/devansh1012007/leet-code/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/devansh1012007/leet-code/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/devansh1012007/leet-code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/devansh1012007/leet-code/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
@@ -283,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/devansh1012007/leet-code/tree/master/0070-climbing-stairs) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/devansh1012007/leet-code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
