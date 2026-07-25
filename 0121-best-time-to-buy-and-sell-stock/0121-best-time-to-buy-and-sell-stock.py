@@ -24,17 +24,14 @@ class Solution:
         return maximum
 '''
 # trying more efficent solution
-
+'''
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         length = len(prices)
-        #if length == 1: return 0 
         min_ = float(inf)
         max_ = float(-inf)
         max_pos = None
         min_pos = None
-        #DP=[]
-        #DP.append(diff)
         ans = 0
         for num in range(length):
             val = prices[num]
@@ -44,6 +41,20 @@ class Solution:
             diff = max_- min_
             if diff > ans: ans = diff
         return ans
-        # how the fuck do i re discover the Kadane's Algorithm and use that ? IDK what it is and how to use it but the point is how do i save states such that i can use that information to decide weather i need to switch the max_ and min_ for biggest difference 
-        # see the end of maths notes to checkout the re discovered version 
-        
+'''
+'''        
+# how the fuck do i re discover the Kadane's Algorithm and use that ? IDK what it is and how to use it but the point is how do i save states such that i can use that information to decide weather i need to switch the max_ and min_ for biggest difference 
+# see the end of maths notes to checkout the re discovered version 
+'''        
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        min_ = float(inf)
+        max_ = float(-inf)
+        ans = 0
+        for val in prices:
+            if val > max_ and val < min_: max_, min_ = val, val 
+            elif val >= max_ : max_= val
+            elif val <= min_ : min_, max_ = val, val
+            diff = max_ - min_
+            if diff > ans: ans = diff
+        return ans
