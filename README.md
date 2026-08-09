@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/devansh1012007/leet-code/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/devansh1012007/leet-code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/devansh1012007/leet-code/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/devansh1012007/leet-code/tree/master/0171-excel-sheet-column-number) |
 | [0409-longest-palindrome](https://github.com/devansh1012007/leet-code/tree/master/0409-longest-palindrome) |
 ## String Matching
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/devansh1012007/leet-code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/devansh1012007/leet-code/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/devansh1012007/leet-code/tree/master/0096-unique-binary-search-trees) |
+| [0171-excel-sheet-column-number](https://github.com/devansh1012007/leet-code/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/devansh1012007/leet-code/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/devansh1012007/leet-code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/devansh1012007/leet-code/tree/master/0268-missing-number) |
